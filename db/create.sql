@@ -20,11 +20,11 @@ CREATE TABLE products (
 -- want different data? check: https://www.mockaroo.com/910b6c20
 --
 
-insert into products (name, description, code, price) values ('Vespa', 'Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id.', '816905633-0', 1200);
-insert into products (name, description, code, price) values ('Piaggio', 'Nulla ut erat id mauris vulputate elementum. Nullam varius.', '077030122-3', 2000);
-insert into products (name, description, code, price) values ('NIU', 'Pellentesque at nulla. Suspendisse potenti.', '445924201-X', 1350);
-insert into products (name, description, code, price) values ('Peugeot', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.', '693155505-7', 13.5);
-insert into products (name, description, code, price) values ('Horwin', '', '686928463-6', 14);
-insert into products (name, description, code, price) values ('SYM', '', '', 14);
-insert into products (name, description, code, price) values ('Kymco', '', '', 16);
-insert into products (name, description, code, price) values ('AGM', '', '', 16);
+insert into products (name, description, code, price) values ('Sprint', 'Merk: Vespa', '816905633-0', 1200);
+insert into products (name, description, code, price) values ('Primavera', 'Merk: Vespa', '077030122-3', 2000);
+insert into products (name, description, code, price) values ('GTS Super', 'Merk: Vespa', '445924201-X', 1350);
+insert into products (name, description, code, price) values ('Elettrica', 'Merk: Vespa', '693155505-7', 13.5);
+insert into products (name, description, code, price) values ('Agility S', 'Merk: Kymco', '686928463-6', 14);
+insert into products (name, description, code, price) values ('Filly 50', 'Merk: Kymco', '', 14);
+insert into products (name, description, code, price) values ('Sky Town 50', 'Merk: Kymco', '', 16);
+insert into products (name, description, code, price) values ('New Like Euro5', 'Merk: Kymco', '', 16);
